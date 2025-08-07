@@ -87,4 +87,55 @@ body {
   transform: rotate(45deg);
 }button {
   transition: background-color 0.3s ease;
+}/* código omitido */
+
+#container {
+
 }
+
+/* código omitido *//* código omitido */
+
+#container {
+    display: flex;
+}
+
+/* código omitido */<!-- código omitido -->
+
+<main>
+    <section id="container">
+        <article class="cartao">
+
+<!-- código omitido -->/* código omitido */
+
+#container {
+    display: flex;
+}
+
+.cartao {
+    margin: 1rem 1rem;
+}
+
+/* código omitido *//* código omitido */
+
+#container {
+    display: flex;
+}
+
+.cartao {
+    margin: 1rem 1rem;
+    background-color: aqua;
+}
+
+/* código omitido *//* código omitido */
+
+#container {
+    display: flex;
+}
+
+.cartao {
+    margin: 1rem 1rem;
+    background-color: aqua;
+    height: 20rem;
+}
+
+/* código omitido */
